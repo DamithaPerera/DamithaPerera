@@ -30,14 +30,16 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-###
+---
+
+### 👨 About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri lanka.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend (more into 😄 Pronouns: ... ) for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend (more into backend 😄 ) for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Blockchain
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I learn new technologies and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/damitha-perera-0b5054a7/)
 
