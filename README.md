@@ -41,7 +41,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I learn new technologies and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/damitha-perera-0b5054a7/)
+<!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/damitha-perera-0b5054a7/) -->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamithaPerera&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
