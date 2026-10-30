@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ### 👨 About Me :
 
-I am a Lead Full Stack Enginner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri lanka.
+I am a Lead Full Stack Enginner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri lanka but now leaves in Auckland, New Zealand.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend (more into backend 😄 ) for building web applications.
 
 - :seedling: Exploring Blockchain
